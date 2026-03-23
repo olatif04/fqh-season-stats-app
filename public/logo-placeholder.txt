@@ -1,0 +1,7 @@
+Put your square PNG logo here and name it:
+logo.png
+
+Path:
+/public/logo.png
+
+The export cards and app header will automatically use it.
